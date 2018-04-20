@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: "Nanum Gothic", sans-serif;
+}
+
+.gra-pint-yellow {
+    background:-webkit-linear-gradient(hotpink, yellow);
+    background:linear-gradient(hotpink, yellow);
+}
